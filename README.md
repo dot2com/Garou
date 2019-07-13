@@ -1,2 +1,2 @@
-# Garou
-炫酷特效从我做起
+# webpack_me
+自己配置的webpck插件
